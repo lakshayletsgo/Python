@@ -2,7 +2,6 @@ a = 9
 b = "Lakshay"
 c = True
 d = complex(4,2)
-print(d)
 
 # This will throw an error as we can't concatinate two different types of datatypes
 # print(a+b)
